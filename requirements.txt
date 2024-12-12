@@ -1,5 +1,5 @@
-flask==2.3.3
-werkzeug==2.3.3
-opencv-python==4.8.0.74
-opencv-python-headless==4.8.0.74
-numpy==1.23.5
+flask
+werkzeug
+opencv-python
+opencv-python-headless
+numpy
